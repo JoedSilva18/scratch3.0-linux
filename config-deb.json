@@ -1,0 +1,9 @@
+{
+	"src": "/tmp/scratch-desktop/",
+	"dest": "/tmp/",
+	"arch": "armhf",
+	"icon": "/tmp/scratch-desktop/resources/Icon.png",
+	"categories": [
+		"Education"
+	]
+}

@@ -3,7 +3,7 @@
 Este repositório contém o código para executar o Scratch em uma Tv Box com arquitetura armhf que utiliza o Armbian como sistema operacional. O repositório é baseado no github abaixo:
 [Repositório Scratch 3.0 para Linux](https://github.com/redshaderobotics/scratch3.0-linux)
 
-Após a instalação do Armbian é necessário garantir que o sistema possui o NodeJS instalado.
+Após a instalação do Armbian é necessário garantir que o sistema possui o NodeJS instalado(testado na versão 14.17.0).
 
 ## Gerar pacote deb
 
